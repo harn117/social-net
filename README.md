@@ -16,7 +16,7 @@ Backend
 
 1. Clona este repositorio en tu máquina local.
 2. Ejecuta el comando `npm install` para instalar las dependencias.
-3. Configura las variables de entorno en el archivo `.env`.
+3. Configura las variables de entorno en el archivo `.env` archivo de ejemplo `environment/envExample`.
 4. Ejecuta el comando `npm start` para iniciar la aplicación.
 
 ## Estructura del Proyecto
