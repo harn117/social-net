@@ -1,0 +1,6 @@
+URL="localHost"
+SERVER_MONGO=mongo
+DATABASE_NAME_MONGO=test
+USER_MONGO=root
+PASSWORD_MONGO=secret
+PRODUCTION=false
