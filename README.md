@@ -21,16 +21,19 @@ Explica la estructura de directorios y archivos del proyecto.
 
 ## Uso
 
-Proporciona ejemplos de cómo utilizar la aplicación o biblioteca.
+seguir documentacion dada a continuacion https://documenter.getpostman.com/view/19610022/2s9YytfLMX.
 
 ## Contribución
 
-Indica cómo los desarrolladores pueden contribuir al proyecto.
+David Neira"
 
 ## Licencia
 
-Indica la licencia bajo la cual se distribuye el proyecto.
+license": "ISC"
 
 ## Contacto
 
-Proporciona información de contacto para preguntas o colaboraciones.
+[Proporciona información de contacto para preguntas o colaboraciones.]
+
+(https://github.com/harn117/)https://github.com/harn117/
+email: harn.16@gmail.com
